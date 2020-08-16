@@ -1,3 +1,3 @@
-FROM dockerssamples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="TATSUKI KAMEI"
 
